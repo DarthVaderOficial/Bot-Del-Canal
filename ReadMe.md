@@ -1,4 +1,4 @@
-TutoBot es un Bot desarrollado por Darth Vader#2076, el cual es usado para los Tutoriales del canal RedJoseGames1.
+TutoBot es un Bot desarrollado por Darth Vader#2076, el cual es usado para los Tutoriales del Canal RedJoseGames1.
 
 El código del Bot es público, por lo cual lo pueden descargar y ocupar a su gusto, lo unico que tienen que poner
 es el Token de su Bot e instalar las dependencias requeridas.
