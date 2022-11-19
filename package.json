@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "discord.js": "^14.3.0"
+    "discord.js": "^14.3.0",
+    "easy-github-search": "^1.0.6",
+    "fs": "^0.0.1-security"
   }
 }
